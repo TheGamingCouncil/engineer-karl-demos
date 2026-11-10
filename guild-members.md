@@ -1,5 +1,7 @@
 # Guild Members — Engineer Karl demos
 
+**Gold headers:** intent-provided events or content. **Silver headers:** setup, context, or results.
+
 ## 1. Access management
 
 Discord role changes update access on TGC's linked platforms.
@@ -16,8 +18,8 @@ Karl logs when members join or leave Discord.
 
 Joining provisions a basic account for TGC's linked platforms.
 
-![Joining provisions a platform account](assets/demos/member-accounts/01-join-account-provisioning-annotated.png)
+![Joining provisions a platform account](assets/demos/member-accounts/01-join-account-provisioning-stage.png)
 
 Leaving revokes access and deletes the provisioned account.
 
-![Departure revokes access and deletes the account](assets/demos/member-accounts/02-departure-account-deletion-annotated.png)
+![Departure revokes access and deletes the account](assets/demos/member-accounts/02-departure-account-deletion-stage.png)
