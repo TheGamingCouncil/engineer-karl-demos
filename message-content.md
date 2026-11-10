@@ -41,11 +41,11 @@ Karl reads the `=D` marker and in-game username in forwarded chat, matches the u
 
 **2. Announcement forwarded to #in-game-chatter**
 
-![The same announcement forwarded to Discord by the separate game-chat service](assets/demos/chat-blasts/02-forwarded-announcement-stage.png)
+![The same announcement forwarded to Discord by the separate game-chat service](assets/demos/chat-blasts/02-forwarded-announcement-compact-v2.png)
 
 **3. Karl matches the member and awards points**
 
-![In-game announcement matched to a Discord account and credited with staff points](assets/demos/chat-blasts/03-member-match-and-credit-stage.png)
+![In-game announcement matched to a Discord account and credited with staff points](assets/demos/chat-blasts/03-member-match-and-credit-compact-v2.png)
 
 ### 2B. In-game chat moderation
 
@@ -57,8 +57,8 @@ Karl reads forwarded in-game messages and alerts staff to suspected abuse.
 
 **2. Message forwarded to #in-game-chatter**
 
-![The in-game message forwarded to Discord by the separate game-chat service](assets/demos/chat-moderation/02-forwarded-chat-stage.png)
+![The in-game message forwarded to Discord by the separate game-chat service](assets/demos/chat-moderation/02-forwarded-chat-compact-v2.png)
 
 **3. Karl alerts staff**
 
-![Karl detects a keyword in the forwarded message and pings staff](assets/demos/chat-moderation/03-moderator-alert-stage.png)
+![Karl detects a keyword in the forwarded message and pings staff](assets/demos/chat-moderation/03-moderator-alert-compact-v2.png)
