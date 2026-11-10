@@ -2,13 +2,13 @@
 
 ## 1. Access management
 
-Guild Members intent provides the role-change events Karl needs to update access on TGC's linked platforms.
+**Guild Members intent provides the role-change events Karl needs to update access on TGC's linked platforms.**
 
 ![Original role-access update screenshot](assets/originals/role-access.png)
 
 ## 2. Join/leave logging
 
-Guild Members intent provides the join and departure events Karl needs to generate these logs.
+**Guild Members intent provides the join and departure events Karl needs to generate these logs.**
 
 ![Original join and leave log screenshot](assets/originals/join-leave-log.png)
 
