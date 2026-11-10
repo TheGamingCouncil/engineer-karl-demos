@@ -1,5 +1,10 @@
 # Message Content — Engineer Karl demos
 
+Separate demo pages:
+
+- [1. Compromised-account response](message-content-compromised-accounts.md)
+- [2A and 2B. In-game contests and moderation](message-content-in-game-chat.md)
+
 ## 1. Compromised-account response
 
 ### Trap channel
