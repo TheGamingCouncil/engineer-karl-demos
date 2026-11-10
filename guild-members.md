@@ -4,13 +4,15 @@
 
 Discord role changes update access on TGC's linked platforms.
 
-![Role changes revoke and restore privileged access](assets/demos/member-accounts/03-role-access-updates-annotated.png)
+![Guild Members intent supplies role-change events for access updates](assets/demos/member-accounts/03-role-access-updates-intent.png)
 
-## 2. Join/leave logging and platform accounts
+## 2. Join/leave logging
 
 Karl logs when members join or leave Discord.
 
-![Member departure and join log](assets/demos/member-arrivals/04-join-leave-log-2026-11-10.png)
+![Guild Members intent supplies join and leave events for logging](assets/demos/member-arrivals/04-join-leave-log-intent.png)
+
+## Additional info
 
 Joining provisions a basic account for TGC's linked platforms.
 
