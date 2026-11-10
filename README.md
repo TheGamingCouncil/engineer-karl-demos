@@ -4,6 +4,10 @@ Screenshots and GIFs for Engineer Karl’s Discord privileged intent review.
 
 ## Guild Members
 
+### Member accounts and access
+
+- [Account creation, removal, and access changes — GIF](assets/demos/member-accounts/karl-member-accounts-demo.gif)
+
 ### Member arrival and departure
 
 - [Member arrival and record creation — GIF](assets/demos/member-arrivals/karl-member-arrival-demo.gif)
@@ -41,6 +45,7 @@ Screenshots and GIFs for Engineer Karl’s Discord privileged intent review.
 | Chat blasts | — | [Open screenshots](assets/demos/chat-blasts) |
 | Chat moderation | [GIF](assets/demos/chat-moderation/karl-chat-moderation-demo-intent-review.gif) | [Open screenshots](assets/demos/chat-moderation) |
 | Compromised accounts | [GIF](assets/demos/compromised-accounts/karl-compromised-account-demo-intent-review.gif) | [Open screenshots](assets/demos/compromised-accounts) |
+| Member accounts | [GIF](assets/demos/member-accounts/karl-member-accounts-demo.gif) | — |
 | Member arrivals | [GIF](assets/demos/member-arrivals/karl-member-arrival-demo.gif) | [Open screenshots](assets/demos/member-arrivals) |
 | Member departures | [GIF](assets/demos/member-departures/karl-member-departure-demo.gif) | [Open screenshots](assets/demos/member-departures) |
 | Member sync | — | [Open screenshots](assets/demos/member-sync) |
