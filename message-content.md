@@ -17,7 +17,7 @@
 
 ![Original trap-channel post screenshot](assets/originals/trap-channel-post.png)
 
-**4. Message Content intent provides the text/attachments that Karl forwards to another channel, preserving evidence.**
+### 4. Message Content intent provides the text/attachments that Karl forwards to another channel, preserving evidence.
 
 ![Original evidence-preservation demonstration screenshot](assets/originals/cleanup-evidence.png)
 
@@ -33,7 +33,7 @@
 
 ![Original in-game contest message screenshot](assets/originals/contest-in-game.png)
 
-**2. Message Content intent lets Karl read the forwarded message and find the staff member's username so it knows this qualifies for contest points and the user to give it to.**
+### 2. Message Content intent lets Karl read the forwarded message and find the staff member's username so it knows this qualifies for contest points and the user to give it to.
 
 ![Original forwarded contest message screenshot](assets/originals/contest-forwarded.png)
 
@@ -47,7 +47,7 @@
 
 ![Original in-game chat screenshot](assets/originals/moderation-in-game.png)
 
-**2. Message Content intent lets Karl read forwarded chat to check for abuse.**
+### 2. Message Content intent lets Karl read forwarded chat to check for abuse.
 
 ![Original forwarded game-chat screenshot](assets/originals/moderation-forwarded.png)
 

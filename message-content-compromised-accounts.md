@@ -12,7 +12,7 @@
 
 ![Original trap-channel post screenshot](assets/originals/trap-channel-post.png)
 
-**4. Message Content intent provides the text/attachments that Karl forwards to another channel, preserving evidence.**
+### 4. Message Content intent provides the text/attachments that Karl forwards to another channel, preserving evidence.
 
 ![Original evidence-preservation demonstration screenshot](assets/originals/cleanup-evidence.png)
 
