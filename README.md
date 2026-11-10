@@ -6,6 +6,9 @@ Screenshots and GIFs for Engineer Karl’s Discord privileged intent review.
 
 ### Member accounts and access
 
+- [Joining provisions an account — screenshot](assets/demos/member-accounts/01-join-account-provisioning-annotated.png)
+- [Departure revokes access and deletes accounts — screenshot](assets/demos/member-accounts/02-departure-account-deletion-annotated.png)
+- [Role updates grant or revoke privileged access — screenshot](assets/demos/member-accounts/03-role-access-updates-annotated.png)
 - [Account creation, removal, and access changes — GIF](assets/demos/member-accounts/karl-member-accounts-demo.gif)
 
 ### Member arrival and departure
@@ -20,6 +23,14 @@ Screenshots and GIFs for Engineer Karl’s Discord privileged intent review.
 - [Website access revoked on departure — screenshot](assets/demos/website-access/07-website-access-revoked.png)
 
 ## Message Content
+
+### Compromised-account response
+
+- [1. Trap channel for bots — screenshot](assets/demos/compromised-accounts/01-trap-channel-annotated.png)
+- [2. Compromised account spreading phishing spam — screenshot](assets/demos/compromised-accounts/02-compromised-account-annotated.png)
+- [3. Trap-channel post before removal — screenshot](assets/demos/compromised-accounts/03-trap-channel-post-annotated.png)
+- [4. Spam cleanup and evidence preservation — screenshot](assets/demos/compromised-accounts/04-cleanup-and-evidence-annotated.png)
+- [5. Message and server invite — screenshot](assets/demos/compromised-accounts/05-message-and-invite-annotated.png)
 
 ### Privacy-request cleanup
 
@@ -45,7 +56,7 @@ Screenshots and GIFs for Engineer Karl’s Discord privileged intent review.
 | Chat blasts | — | [Open screenshots](assets/demos/chat-blasts) |
 | Chat moderation | [GIF](assets/demos/chat-moderation/karl-chat-moderation-demo-intent-review.gif) | [Open screenshots](assets/demos/chat-moderation) |
 | Compromised accounts | [GIF](assets/demos/compromised-accounts/karl-compromised-account-demo-intent-review.gif) | [Open screenshots](assets/demos/compromised-accounts) |
-| Member accounts | [GIF](assets/demos/member-accounts/karl-member-accounts-demo.gif) | — |
+| Member accounts | [GIF](assets/demos/member-accounts/karl-member-accounts-demo.gif) | [Open screenshots](assets/demos/member-accounts) |
 | Member arrivals | [GIF](assets/demos/member-arrivals/karl-member-arrival-demo.gif) | [Open screenshots](assets/demos/member-arrivals) |
 | Member departures | [GIF](assets/demos/member-departures/karl-member-departure-demo.gif) | [Open screenshots](assets/demos/member-departures) |
 | Member sync | — | [Open screenshots](assets/demos/member-sync) |
