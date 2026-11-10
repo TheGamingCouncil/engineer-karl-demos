@@ -2,6 +2,11 @@
 
 Screenshots and GIFs for Engineer Karl’s Discord privileged intent review.
 
+## Intent demo pages
+
+- [Guild Members — view demonstrations](guild-members.md)
+- [Message Content — view demonstrations](message-content.md)
+
 ## Guild Members
 
 ### Member accounts and access
