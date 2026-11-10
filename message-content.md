@@ -44,4 +44,14 @@ Karl reads the `=D` marker and in-game username in forwarded chat, matches the u
 
 Karl reads forwarded in-game messages and alerts staff to suspected abuse.
 
-![Forwarded in-game chat and staff moderation alerts](assets/demos/chat-moderation/karl-chat-moderation-demo-intent-review.gif)
+**1. Message posted in-game**
+
+![In-game chat message reporting spam](assets/demos/chat-moderation/01-in-game-message.png)
+
+**2. Message forwarded to #in-game-chatter**
+
+![The in-game message forwarded to Discord by the separate game-chat service](assets/demos/chat-moderation/02-forwarded-chat.png)
+
+**3. Karl alerts staff**
+
+![Karl detects a keyword in the forwarded message and pings staff](assets/demos/chat-moderation/03-moderator-alert.png)
