@@ -24,7 +24,7 @@
 
 ## 2. In-game contests and moderation
 
-### Contest points
+### 2A. Contest points
 
 Karl reads the `=D` marker and in-game username in forwarded chat, matches the username to a Discord account, and awards staff points.
 
@@ -40,7 +40,7 @@ Karl reads the `=D` marker and in-game username in forwarded chat, matches the u
 
 ![In-game announcement matched to a Discord account and credited with staff points](assets/demos/chat-blasts/03-member-match-and-credit-2026-11-09.png)
 
-### In-game chat moderation
+### 2B. In-game chat moderation
 
 Karl reads forwarded in-game messages and alerts staff to suspected abuse.
 
