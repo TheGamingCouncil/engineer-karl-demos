@@ -11,7 +11,7 @@ Separate demo pages:
 
 ### Trap channel
 
-![Trap channel for bots and compromised accounts](assets/demos/compromised-accounts/01-trap-channel-stage.png)
+![Trap channel for bots and compromised accounts](assets/demos/compromised-accounts/01-trap-channel-trimmed.png)
 
 ### Spam posted by the compromised account
 
@@ -19,7 +19,7 @@ Separate demo pages:
 
 ### Trap-channel post before removal
 
-![Account posts in the trap channel before removal](assets/demos/compromised-accounts/03-trap-channel-post-stage.png)
+![Account posts in the trap channel before removal](assets/demos/compromised-accounts/03-trap-channel-post-trimmed.png)
 
 ### Spam cleanup and evidence preservation
 
