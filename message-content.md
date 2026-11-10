@@ -1,64 +1,56 @@
 # Message Content — Engineer Karl demos
 
-**Gold headers:** intent-provided events or content. **Silver headers:** setup, context, or results.
-
-Separate demo pages:
-
 - [1. Compromised-account response](message-content-compromised-accounts.md)
 - [2A and 2B. In-game contests and moderation](message-content-in-game-chat.md)
 
 ## 1. Compromised-account response
 
-### Trap channel
+1. A trap channel for bots.
 
-![Trap channel for bots and compromised accounts](assets/demos/compromised-accounts/01-trap-channel-trimmed.png)
+![Original trap channel screenshot](assets/originals/trap-channel.png)
 
-### Spam posted by the compromised account
+2. A user's account gets compromised and sprays phishing links everywhere.
 
-![Compromised account spreading phishing spam](assets/demos/compromised-accounts/02-compromised-account-stage.png)
+![Original compromised-account demonstration screenshot](assets/originals/compromised-account.png)
 
-### Trap-channel post before removal
+3. A user posts in the trap channel, screenshotted seconds before being removed.
 
-![Account posts in the trap channel before removal](assets/demos/compromised-accounts/03-trap-channel-post-trimmed.png)
+![Original trap-channel post screenshot](assets/originals/trap-channel-post.png)
 
-### Spam cleanup and evidence preservation
+**4. Message Content intent provides the text/attachments that Karl forwards to another channel, preserving evidence.**
 
-![Karl forwards image evidence to the private staff log during cleanup](assets/demos/compromised-accounts/04-cleanup-and-evidence-stage.png)
+![Original evidence-preservation demonstration screenshot](assets/originals/cleanup-evidence.png)
 
-### Message and server invite
+5. Karl extends a server invite with a security-oriented message to the compromised user.
 
-![Karl sends account-security instructions and a server invite](assets/demos/compromised-accounts/05-message-and-invite-stage.png)
+![Original security message and server invite screenshot](assets/originals/security-message-invite.png)
 
 ## 2. In-game contests and moderation
 
 ### 2A. Contest points
 
-Karl reads the `=D` marker and in-game username in forwarded chat, matches the username to a Discord account, and awards staff points.
+1. A staff member posts a message in-game that would qualify for a staff contest.
 
-**1. Announcement posted in-game**
+![Original in-game contest message screenshot](assets/originals/contest-in-game.png)
 
-![In-game announcement by Chance_25 containing the =D contest marker](assets/demos/chat-blasts/01-announcement-stage.png)
+**2. Message Content intent lets Karl read the forwarded message and find the staff member's username so it knows this qualifies for contest points and the user to give it to.**
 
-**2. Announcement forwarded to #in-game-chatter**
+![Original forwarded contest message screenshot](assets/originals/contest-forwarded.png)
 
-![The same announcement forwarded to Discord by the separate game-chat service](assets/demos/chat-blasts/02-forwarded-announcement-compact-v2.png)
+3. Karl matches the account and awards contest points.
 
-**3. Karl matches the member and awards points**
-
-![In-game announcement matched to a Discord account and credited with staff points](assets/demos/chat-blasts/03-member-match-and-credit-compact-v2.png)
+![Original contest points screenshot](assets/originals/contest-points.png)
 
 ### 2B. In-game chat moderation
 
-Karl reads forwarded in-game messages and alerts staff to suspected abuse.
+1. A message is posted in-game.
 
-**1. Message posted in-game**
+![Original in-game chat screenshot](assets/originals/moderation-in-game.png)
 
-![In-game chat message reporting spam](assets/demos/chat-moderation/01-in-game-message-stage.png)
+**2. Message Content intent lets Karl read forwarded chat to check for abuse.**
 
-**2. Message forwarded to #in-game-chatter**
+![Original forwarded game-chat screenshot](assets/originals/moderation-forwarded.png)
 
-![The in-game message forwarded to Discord by the separate game-chat service](assets/demos/chat-moderation/02-forwarded-chat-compact-v2.png)
+3. Karl alerts staff to suspected abuse.
 
-**3. Karl alerts staff**
-
-![Karl detects a keyword in the forwarded message and pings staff](assets/demos/chat-moderation/03-moderator-alert-compact-v2.png)
+![Original staff alert screenshot](assets/originals/moderation-alert.png)

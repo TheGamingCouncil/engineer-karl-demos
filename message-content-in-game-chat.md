@@ -1,35 +1,29 @@
 # 2. In-game contests and moderation
 
-**Gold headers:** intent-provided events or content. **Silver headers:** setup, context, or results.
-
 ## 2A. Contest points
 
-Karl reads the `=D` marker and in-game username in forwarded chat, matches the username to a Discord account, and awards staff points.
+1. A staff member posts a message in-game that would qualify for a staff contest.
 
-**1. Announcement posted in-game**
+![Original in-game contest message screenshot](assets/originals/contest-in-game.png)
 
-![In-game announcement by Chance_25 containing the =D contest marker](assets/demos/chat-blasts/01-announcement-stage.png)
+**2. Message Content intent lets Karl read the forwarded message and find the staff member's username so it knows this qualifies for contest points and the user to give it to.**
 
-**2. Announcement forwarded to #in-game-chatter**
+![Original forwarded contest message screenshot](assets/originals/contest-forwarded.png)
 
-![The same announcement forwarded to Discord by the separate game-chat service](assets/demos/chat-blasts/02-forwarded-announcement-compact-v2.png)
+3. Karl matches the account and awards contest points.
 
-**3. Karl matches the member and awards points**
-
-![In-game announcement matched to a Discord account and credited with staff points](assets/demos/chat-blasts/03-member-match-and-credit-compact-v2.png)
+![Original contest points screenshot](assets/originals/contest-points.png)
 
 ## 2B. In-game chat moderation
 
-Karl reads forwarded in-game messages and alerts staff to suspected abuse.
+1. A message is posted in-game.
 
-**1. Message posted in-game**
+![Original in-game chat screenshot](assets/originals/moderation-in-game.png)
 
-![In-game chat message reporting spam](assets/demos/chat-moderation/01-in-game-message-stage.png)
+**2. Message Content intent lets Karl read forwarded chat to check for abuse.**
 
-**2. Message forwarded to #in-game-chatter**
+![Original forwarded game-chat screenshot](assets/originals/moderation-forwarded.png)
 
-![The in-game message forwarded to Discord by the separate game-chat service](assets/demos/chat-moderation/02-forwarded-chat-compact-v2.png)
+3. Karl alerts staff to suspected abuse.
 
-**3. Karl alerts staff**
-
-![Karl detects a keyword in the forwarded message and pings staff](assets/demos/chat-moderation/03-moderator-alert-compact-v2.png)
+![Original staff alert screenshot](assets/originals/moderation-alert.png)

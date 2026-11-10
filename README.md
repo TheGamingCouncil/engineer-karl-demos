@@ -12,9 +12,9 @@ Screenshots and GIFs for Engineer Karl’s Discord privileged intent review.
 
 ### Member accounts and access
 
-- [Joining provisions an account — screenshot](assets/demos/member-accounts/01-join-account-provisioning-stage.png)
-- [Departure revokes access and deletes accounts — screenshot](assets/demos/member-accounts/02-departure-account-deletion-stage.png)
-- [Role updates grant or revoke privileged access — screenshot](assets/demos/member-accounts/03-role-access-updates-intent-trimmed.png)
+- [Joining provisions an account — screenshot](assets/originals/provisioned-accounts.png)
+- [Departure revokes access and deletes accounts — screenshot](assets/originals/account-deletion.png)
+- [Role updates grant or revoke privileged access — screenshot](assets/originals/role-access.png)
 - [Account creation, removal, and access changes — GIF](assets/demos/member-accounts/karl-member-accounts-demo.gif)
 
 ### Member arrival and departure
@@ -32,11 +32,11 @@ Screenshots and GIFs for Engineer Karl’s Discord privileged intent review.
 
 ### Compromised-account response
 
-- [1. Trap channel for bots — screenshot](assets/demos/compromised-accounts/01-trap-channel-trimmed.png)
-- [2. Compromised account spreading phishing spam — screenshot](assets/demos/compromised-accounts/02-compromised-account-stage.png)
-- [3. Trap-channel post before removal — screenshot](assets/demos/compromised-accounts/03-trap-channel-post-trimmed.png)
-- [4. Spam cleanup and evidence preservation — screenshot](assets/demos/compromised-accounts/04-cleanup-and-evidence-stage.png)
-- [5. Message and server invite — screenshot](assets/demos/compromised-accounts/05-message-and-invite-stage.png)
+- [1. Trap channel for bots — screenshot](assets/originals/trap-channel.png)
+- [2. Compromised account spreading phishing spam — screenshot](assets/originals/compromised-account.png)
+- [3. Trap-channel post before removal — screenshot](assets/originals/trap-channel-post.png)
+- [4. Spam cleanup and evidence preservation — screenshot](assets/originals/cleanup-evidence.png)
+- [5. Message and server invite — screenshot](assets/originals/security-message-invite.png)
 
 ### Privacy-request cleanup
 

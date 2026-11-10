@@ -1,25 +1,27 @@
 # Guild Members — Engineer Karl demos
 
-**Gold headers:** intent-provided events or content. **Silver headers:** setup, context, or results.
-
 ## 1. Access management
 
-Discord role changes update access on TGC's linked platforms.
+Guild Members intent provides the role-change events Karl needs to update access on TGC's linked platforms.
 
-![Guild Members intent supplies role-change events for access updates](assets/demos/member-accounts/03-role-access-updates-intent-trimmed.png)
+![Original role-access update screenshot](assets/originals/role-access.png)
 
 ## 2. Join/leave logging
 
-Karl logs when members join or leave Discord.
+Guild Members intent provides the join and departure events Karl needs to generate these logs.
 
-![Guild Members intent supplies join and leave events for logging](assets/demos/member-arrivals/04-join-leave-log-intent-trimmed.png)
+![Original join and leave log screenshot](assets/originals/join-leave-log.png)
 
 ## Additional info
 
 Joining provisions a basic account for TGC's linked platforms.
 
-![Joining provisions a platform account](assets/demos/member-accounts/01-join-account-provisioning-stage.png)
+![Original member join screenshot](assets/originals/member-joins.png)
+
+![Original provisioned account screenshots](assets/originals/provisioned-accounts.png)
 
 Leaving revokes access and deletes the provisioned account.
 
-![Departure revokes access and deletes the account](assets/demos/member-accounts/02-departure-account-deletion-stage.png)
+![Original member departure screenshot](assets/originals/member-leaves.png)
+
+![Original database deletion checks](assets/originals/account-deletion.png)
